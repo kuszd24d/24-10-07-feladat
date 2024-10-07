@@ -1,0 +1,15 @@
+body{
+    text-align: justify;
+}
+#content{
+    width: 700px;
+    padding: 25px;
+    margin: 30px;
+    border: 8px;
+    background-color: rgb(180, 180, 180) ;
+    background-image: url(Windows-10-Desktop.htm);
+}
+
+img{
+    width: 700px;
+}
