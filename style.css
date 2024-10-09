@@ -3,29 +3,23 @@ body{
     background-color: lightblue;
     height: 800px;
     background-image: url("windwall.avif");
-  background-repeat: no-repeat;
-  background-position: right top  ;
-  background-attachment: scroll;
-  background-size: cover;
 }
 #content{
     width: 800px;
     padding: 25px;
     margin: auto;
     border: 8px solid darkblue;
+    background-color: turquoise ;
     font-style: initial;
 }
 
 h1{
     font-size: xx-large;
-    color: white
-    ;
 }
 
 h2{
     font-size: xx-large;
     font-style: normal;
-    color: white;
 }
 
 p{
@@ -33,7 +27,6 @@ p{
     font-family: sans-serif;
     margin: 2px;
     padding: 2px;
-    color: white;
 }
 
 img{
